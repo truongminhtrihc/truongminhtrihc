@@ -1,6 +1,6 @@
 ### Hi there, I'm **Truong Minh Tri**! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=550&lines=Data+Scientist+%7C+Trading+Analyst+%7C+Stock+Market+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&duration=3000&pause=1000&color=31F781&width=550&lines=📊Data+Scientist+%7C+📈Trading+Analyst+%7C+💹Stock+Market+Enthusiast)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=truongminhtrihc&color=red)  
 ![GitHub Followers](https://img.shields.io/github/followers/truongminhtrihc?style=social)
@@ -14,7 +14,7 @@
 - 💹 **Stock Market Analyst** | Specializing in predictive modeling for financial markets
 - 📚 **Currently Learning**: Advanced ML Techniques, Big Data Analytics, Financial Engineering
 - 📢 **Core Belief**: Data isn't just numbers - it's the foundation for strategic decision-making
-- 🎓 **Computer Science Senior** | HCMUT (GPA: 3.4/4.0)
+- 🎓 **Computer Science (Data, Security Engineering and Business Intelligence Data Engineering)** | HCMUT (GPA: 3.4/4.0)
 
 ---
 
